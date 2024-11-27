@@ -1,0 +1,10 @@
+
+
+
+-> Installation de Rasberry PI OS sur la carte
+-> Connexion en SSH via le routeur disponible en salle
+-> Connexion de la carte Rasberry PI au WiFi Campus-Telecom afin de pouvoir se connecter plus facilement (et depuis toute l'école) en SSH
+-> Telechargement des paquets pour pouvoir faire tourner les moteurs sur la Raspberry
+-> Reconnaissance des QR-codes (marquers AruCo) réussie (il reste des ajustements à faire)
+-> Design du véhicule terminé et découpe dans du carton
+-> Début d'étude du HTML en vue de coder une page web pour communiquer avec la Raspberry

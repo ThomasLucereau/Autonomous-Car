@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="290mm"
+   height="290mm"
+   viewBox="0 0 290 290"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="artefact 3.B dans la vago.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="0.62885514"
+     inkscape:cx="430.94185"
+     inkscape:cy="508.06613"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g15"
+         id="use16" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       id="path7"
+       style="fill:#000000;stroke:none;stroke-width:0.264583"
+       cx="198.13182"
+       cy="78.190407"
+       r="0.39687499" />
+    <g
+       id="g16"
+       clip-path="url(#clipPath16)"
+       transform="translate(0,-34.999931)">
+      <g
+         inkscape:label="Clip"
+         id="g15">
+        <path
+           style="stroke-width:0.225196"
+           d="M 77.500179,34.999931 V 65.000167 H 0 v 39.999623 50.00005 40.00014 h 77.500179 v 30.00024 H 90.000191 V 154.99984 H 210.0001 V 104.99979 H 90.000191 V 34.999931 Z"
+           id="rect8" />
+      </g>
+    </g>
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect10"
+       width="77.5"
+       x="75.139809"
+       y="8.7003994" />
+    <path
+       id="rect16"
+       style="stroke-width:0.264583"
+       d="M 120.73659,290 V 180 H 95.736572 v 29.99972 H 35.736611 V 180 h -25.00002 v 110 z" />
+    <path
+       id="rect18"
+       style="fill:#000000;stroke-width:0.264583"
+       d="M 100.0001 0 L 100.0001 30.000236 L 219.69977 30.000236 L 219.69977 2.9998169 L 214.9998 2.9998169 L 214.9998 0 L 119.99991 0 L 119.99991 2.9998169 L 115.00022 2.9998169 L 115.00022 0 L 100.0001 0 z " />
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect19"
+       width="50"
+       height="30"
+       x="232.24745"
+       y="6.7318177" />
+    <path
+       id="rect20"
+       style="stroke-width:0.264583"
+       d="M -54.999744 229.99991 L -59.999955 229.99991 L -59.999955 233.00025 L -154.99984 233.00025 L -154.99984 229.99991 L -160.00005 229.99991 L -160.00005 233.00025 L -174.69993 233.00025 L -174.69993 277.00015 L -160.00005 277.00015 L -160.00005 279.99996 L -154.99984 279.99996 L -154.99984 277.00015 L -59.999955 277.00015 L -59.999955 279.99996 L -54.999744 279.99996 L -54.999744 229.99991 z "
+       transform="rotate(-90)" />
+    <path
+       id="path21"
+       style="stroke-width:0.287632"
+       d="m 133.41241,179.99987 v 40.00014 h 0.17984 v 69.99986 h 129.99982 v -110 h -0.17984 -29.36565 -10.63449 v 30.00023 h -50.00005 v -30.00023 h -10.27431 -29.54548 z" />
+    <path
+       id="path24"
+       style="fill:#000000;stroke-width:0.264583"
+       d="M 100,36.183479 V 66.183715 H 219.69967 V 39.183296 h -4.69997 v -2.999817 h -94.99989 v 2.999817 h -4.99969 v -2.999817 z" />
+  </g>
+</svg>

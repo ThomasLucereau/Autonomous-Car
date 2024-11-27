@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="artefact 3.B dans la vago 3.0 (decoupe carton).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="false"
+     inkscape:zoom="1.3380612"
+     inkscape:cx="556.0284"
+     inkscape:cy="168.52742"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1-5-5"
+       style="stroke-width:0.274326"
+       d="m 0,0 v 110 h 16.106838 a 49.407922,44.37883 0 0 1 -0.29998,-3.76256 49.407922,44.37883 0 0 1 49.408234,-44.378685 49.407922,44.37883 0 0 1 0.831064,0.0413 v -0.1049 H 86 V 0 Z M 13.437551,9.9999068 H 72.562449 V 44.999838 H 13.437551 Z" />
+    <path
+       id="rect1-5"
+       style="stroke-width:0.274326"
+       d="M 87.051534,0.00568441 V 110.00569 h 16.106846 a 49.407919,44.37883 0 0 1 -0.29998,-3.76256 49.407919,44.37883 0 0 1 49.40823,-44.378689 49.407919,44.37883 0 0 1 0.83106,0.04134 v -0.104903 h 19.95384 V 0.00568441 Z M 100.48909,10.005591 h 59.12489 v 34.999931 h -59.12489 z" />
+    <rect
+       style="fill:#000000;fill-opacity:0.639216;stroke-width:0.277497"
+       id="rect1"
+       width="110"
+       height="25"
+       x="182.60585"
+       y="2.7964053" />
+    <rect
+       style="fill:#000000;fill-opacity:0.639216;stroke-width:0.277497"
+       id="rect1-3"
+       width="110"
+       height="25"
+       x="182.96907"
+       y="33.808437" />
+    <path
+       id="path6"
+       style="fill-opacity:0.639216;stroke-width:0.264583"
+       d="M 176.723,66.712847 V 80.671683 H 296.72291 V 70.264051 c -0.0179,-0.004 -0.0352,-0.0097 -0.0522,-0.01705 v 0.0067 z" />
+    <path
+       id="path6-6"
+       style="fill-opacity:0.639216;stroke-width:0.264583"
+       d="M 178.23054,86.870276 V 100.82912 H 298.23045 V 90.421486 c -0.0179,-0.004 -0.0352,-0.01 -0.0522,-0.0171 v 0.007 z" />
+  </g>
+</svg>

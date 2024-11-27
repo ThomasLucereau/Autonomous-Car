@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="290mm"
+   height="290mm"
+   viewBox="0 0 290 290"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="artefact 3.B dans la vago 2.0.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="0.62885514"
+     inkscape:cx="429.35166"
+     inkscape:cy="508.06613"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g15"
+         id="use16" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       id="path7"
+       style="fill:#000000;stroke:none;stroke-width:0.264583"
+       cx="198.13182"
+       cy="78.190407"
+       r="0.39687499" />
+    <g
+       id="g16"
+       clip-path="url(#clipPath16)"
+       transform="translate(0,-17.749668)">
+      <g
+         inkscape:label="Clip"
+         id="g15">
+        <path
+           style="stroke-width:0.225196"
+           d="M 77.500179,34.999931 V 65.000167 H 0 v 39.999623 50.00005 40.00014 h 77.500179 v 30.00024 H 90.000191 V 154.99984 H 210.0001 V 104.99979 H 90.000191 V 34.999931 Z"
+           id="rect8" />
+      </g>
+    </g>
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect10"
+       width="77.5"
+       x="75.139809"
+       y="8.7003994" />
+    <path
+       id="rect16"
+       style="stroke-width:0.287632"
+       d="M 138.6329,290 V 180 h -29.54548 v 29.99972 H 38.178378 V 180 H 8.6329004 v 110 z" />
+    <path
+       id="rect18"
+       style="fill:#000000;stroke-width:0.264583"
+       d="M 100.0001 0 L 100.0001 30.000236 L 219.69977 30.000236 L 219.69977 2.9998169 L 214.9998 2.9998169 L 214.9998 0 L 119.99991 0 L 119.99991 2.9998169 L 115.00022 2.9998169 L 115.00022 0 L 100.0001 0 z " />
+    <path
+       id="rect19"
+       style="fill:#000000;stroke-width:0.313059"
+       d="M 0 0 L 0 30.000236 L 69.999862 30.000236 L 69.999862 0 L 0 0 z M 7.0000895 5.0002116 L 9.5001953 5.0002116 L 9.5001953 25.000024 L 7.0000895 25.000024 L 7.0000895 5.0002116 z M 16.999996 5.0002116 L 19.500102 5.0002116 L 19.500102 25.000024 L 16.999996 25.000024 L 16.999996 5.0002116 z M 26.999902 5.0002116 L 29.500008 5.0002116 L 29.500008 25.000024 L 26.999902 25.000024 L 26.999902 5.0002116 z M 36.999809 5.0002116 L 39.499915 5.0002116 L 39.499915 25.000024 L 36.999809 25.000024 L 36.999809 5.0002116 z M 47.000232 5.0002116 L 49.499821 5.0002116 L 49.499821 25.000024 L 47.000232 25.000024 L 47.000232 5.0002116 z M 57.000138 5.0002116 L 59.500244 5.0002116 L 59.500244 25.000024 L 57.000138 25.000024 L 57.000138 5.0002116 z " />
+    <path
+       id="rect20"
+       style="stroke-width:0.313059"
+       d="m 216.95703,41.536124 v 5.000211 h 4.20047 v 94.999885 h -4.20047 v 5.00021 h 4.20047 v 14.69988 h 61.5998 v -14.69988 h 4.19973 v -5.00021 H 282.7573 V 46.536335 h 4.19973 v -5.000211 z" />
+    <path
+       id="path21"
+       style="stroke-width:0.287433"
+       d="M 154.99984 179.99987 L 154.99984 220.00001 L 155.17968 220.00001 L 155.17968 289.99987 L 285.00017 289.99987 L 285.00017 179.99987 L 284.82034 179.99987 L 255.49552 179.99987 L 254.99994 179.99987 L 254.99994 210.0001 L 244.87549 210.0001 L 194.94417 210.0001 L 185.00008 210.0001 L 185.00008 179.99987 L 184.68433 179.99987 L 155.17968 179.99987 L 154.99984 179.99987 z M 185.00008 225.00022 L 214.9998 225.00022 L 214.9998 225.09479 L 225.00022 225.09479 L 225.00022 225.00022 L 254.99994 225.00022 L 254.99994 270.00006 L 246.13175 270.00006 L 246.13175 270.09514 L 200.2715 270.09514 L 200.2715 270.00006 L 185.00008 270.00006 L 185.00008 225.00022 z " />
+    <path
+       id="path24"
+       style="fill:#000000;stroke-width:0.264583"
+       d="M 95.371881,37.866432 V 67.866668 H 215.07155 V 40.866249 h -4.69997 v -2.999817 h -94.99989 v 2.999817 H 110.372 v -2.999817 z" />
+    <path
+       id="rect1"
+       style="stroke-width:0.282851"
+       d="M 90.037956,72.837 H 210.03796 v 80 H 90.037956 Z" />
+  </g>
+</svg>

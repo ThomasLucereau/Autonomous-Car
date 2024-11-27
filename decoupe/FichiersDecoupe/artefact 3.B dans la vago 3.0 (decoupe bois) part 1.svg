@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="290mm"
+   height="290mm"
+   viewBox="0 0 290 290"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="artefact 3.B dans la vago 3.0 (decoupe bois).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1.3398902"
+     inkscape:cx="675.42848"
+     inkscape:cy="855.66714"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g15"
+         id="use16" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#g16,0,1|"
+       id="path-effect9" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g10"
+         id="use11" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       id="path7"
+       style="fill:#000000;stroke:none;stroke-width:0.264583"
+       cx="198.13182"
+       cy="78.190407"
+       r="0.39687499" />
+    <path
+       inkscape:original-d="M 0,0"
+       inkscape:path-effect="#path-effect9"
+       d="M 0,0"
+       id="path9" />
+    <g
+       id="g16"
+       clip-path="url(#clipPath16)"
+       transform="translate(0,-17.749668)">
+      <g
+         inkscape:label="Clip"
+         id="g15" />
+    </g>
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect10"
+       width="77.5"
+       x="75.139809"
+       y="8.7003994" />
+    <path
+       id="rect16"
+       style="stroke-width:0.287632"
+       d="m 129.69659,290.55852 v -110 h -29.54548 v 29.99972 H 29.242067 V 180.55852 H -0.30341012 v 110 z" />
+    <path
+       id="rect19"
+       style="fill:#000000;stroke-width:0.334674"
+       d="m 210.56181,129.57651 v 30.00023 h 80 v -30.00023 z m 8.00013,5.00021 h 2.85726 v 19.99981 h -2.85726 z m 11.42848,0 h 2.85727 v 19.99981 h -2.85727 z m 11.42848,0 h 2.85727 v 19.99981 h -2.85727 z m 11.42849,0 h 2.85727 v 19.99981 h -2.85727 z m 11.42908,0 h 2.85668 v 19.99981 h -2.85668 z m 11.42849,0 h 2.85727 v 19.99981 h -2.85727 z" />
+    <path
+       id="path21"
+       style="stroke-width:0.287433"
+       d="M 130.99976 160.00005 L 130.99976 160.17989 L 130.99976 189.50471 L 130.99976 190.00029 L 160.99999 190.00029 L 160.99999 200.12474 L 160.99999 250.05605 L 160.99999 260.00015 L 130.99976 260.00015 L 130.99976 260.31589 L 130.99976 289.82055 L 130.99976 290.00039 L 170.9999 290.00039 L 170.9999 289.82055 L 240.99976 289.82055 L 240.99976 160.00005 L 130.99976 160.00005 z M 174.00023 186.50024 A 1.5 1.5 0 0 1 175.5004 188.00041 A 1.5 1.5 0 0 1 174.00023 189.50058 A 1.5 1.5 0 0 1 172.50007 188.00041 A 1.5 1.5 0 0 1 174.00023 186.50024 z M 223.00034 186.50024 A 1.5 1.5 0 0 1 224.50051 188.00041 A 1.5 1.5 0 0 1 223.00034 189.50058 A 1.5 1.5 0 0 1 221.50017 188.00041 A 1.5 1.5 0 0 1 223.00034 186.50024 z M 176.00011 190.00029 L 220.99995 190.00029 L 220.99995 198.86848 L 221.09503 198.86848 L 221.09503 244.72873 L 220.99995 244.72873 L 220.99995 260.00015 L 176.00011 260.00015 L 176.00011 230.00043 L 176.09519 230.00043 L 176.09519 220.00001 L 176.00011 220.00001 L 176.00011 190.00029 z M 174.00023 260.50038 A 1.5 1.5 0 0 1 175.5004 262.00055 A 1.5 1.5 0 0 1 174.00023 263.50071 A 1.5 1.5 0 0 1 172.50007 262.00055 A 1.5 1.5 0 0 1 174.00023 260.50038 z M 223.00034 260.50038 A 1.5 1.5 0 0 1 224.50051 262.00055 A 1.5 1.5 0 0 1 223.00034 263.50071 A 1.5 1.5 0 0 1 221.50017 262.00055 A 1.5 1.5 0 0 1 223.00034 260.50038 z " />
+    <g
+       id="g11"
+       clip-path="url(#clipPath11)"
+       transform="translate(-1.2718286e-7,-16.829525)">
+      <g
+         inkscape:label="Clip"
+         id="g10">
+        <g
+           id="g9"
+           transform="translate(1.2718286e-7,-3.7866431)">
+          <path
+             id="rect1"
+             style="stroke-width:0.282851"
+             d="M 90.037956,76.202905 H 210.03796 V 156.20291 H 90.037956 Z M 77.500179,20.616168 V 50.616404 H 0 v 39.999623 50.000053 40.00014 h 77.500179 v 30.00024 H 90.000191 V 140.61608 H 210.0001 V 90.616027 H 90.000191 V 20.616168 Z" />
+          <rect
+             style="fill:#000000;stroke-width:0.264583"
+             id="rect9"
+             width="121.17258"
+             height="62.269241"
+             x="88.775742"
+             y="88.355003" />
+        </g>
+      </g>
+    </g>
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect14"
+       width="119.5"
+       height="30"
+       x="91.222946"
+       y="21.223738" />
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect15"
+       width="119.5"
+       height="30"
+       x="-289.5"
+       y="260"
+       transform="rotate(-90)" />
+    <path
+       id="rect18"
+       style="stroke-width:0.244956"
+       d="M -217.82236 -7.2605387 L -217.82236 -7.2610555 L -212.82319 -7.2610555 L -212.82319 -12.26075 L -217.82236 -12.26075 L -217.82236 -128.2609 L -277.82232 -128.2609 L -277.82232 -12.26075 L -282.82305 -12.26075 L -282.82305 -7.2610555 L -277.82232 -7.2610555 L -277.82232 -7.2605387 L -217.82236 -7.2605387 z M -222.82309 -7.2610555 L -272.82314 -7.2610555 L -272.82314 -107.26115 L -222.82309 -107.26115 L -222.82309 -7.2610555 z "
+       transform="scale(-1)" />
+    <path
+       id="path20"
+       style="stroke-width:0.25227"
+       d="m 222.823,0.55876731 h 50 V 100.55877 h -50 z" />
+  </g>
+</svg>
